@@ -17,7 +17,7 @@ public class Post {
 
     public void addLike() { likes++; }
     public void addComment(String comment) { comments.add(comment); }
-
+    public int getLikes() { return likes; }
     public String toString() {
         return "Post[" + postId + "]: " + content + " | Likes: " + likes;
     }
