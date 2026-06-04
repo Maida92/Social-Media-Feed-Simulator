@@ -8,5 +8,9 @@ A Java DSA project simulating a social media feed.
 - Queue
 - PriorityQueue
 
-## Status
-Day 1 - Project Setup
+## Features
+- User Management
+- Post Creation
+- Feed Generation
+- Notifications
+- Follow/Unfollow System
