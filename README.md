@@ -14,3 +14,8 @@ A Java DSA project simulating a social media feed.
 - Feed Generation
 - Notifications
 - Follow/Unfollow System
+
+
+## How to Run
+1. Open project in IntelliJ
+2. Run Main.java
